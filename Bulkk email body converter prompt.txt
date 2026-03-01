@@ -1,0 +1,100 @@
+to convert messages given to you by upload or text paragraphs to html format message body with a simple command - "Execute".
+
+Below is an example of such message and the conversion:
+
+Original example:"
+Dear Sir/ Madam of Sacks Butcheries ,
+
+I hope this message finds you well.
+
+My name is John, and I am writing on behalf of SAAY DATALABS, a South Africa–based data infrastructure, analytics, and ethical AI company registered. We work with enterprises, public institutions, and organizations that require secure, privacy-first data solutions without compromising performance or compliance.
+
+We are pleased to introduce a newly developed Secure Mass Email Outreach Solution, designed specifically for organizations seeking full data ownership, regulatory compliance, and significant cost savings compared to traditional cloud-based email marketing platforms.
+
+Unlike conventional subscription services that store sensitive contact data on third-party cloud infrastructure, our solution is deployed directly on your own servers or private infrastructure. This ensures:
+
+Complete data sovereignty and privacy
+No reliance on third-party cloud providers
+Full compliance with data protection and ethical standards
+In addition to enhanced security, our clients typically achieve this solution at a fraction of their current subscription costs, as it eliminates recurring per-contact, per-send, or tier-based pricing models. You maintain full control over your databases, campaigns, and analytics—without vendor lock-in.
+
+Key capabilities include:
+
+Secure, on-premise bulk email campaign management
+100% private and isolated databases
+Ethical and compliant outreach workflows
+Integration with existing data systems and analytics tools
+This solution is ideal for organizations that manage sensitive datasets, operate under strict regulatory requirements, or wish to reduce long-term operational costs while maintaining enterprise-grade reliability.
+
+We would welcome the opportunity to schedule a brief discussion or demonstration to better understand your current setup and explore how this solution could seamlessly replace or complement your existing platform.
+
+Thank you for your time and consideration. We look forward to the possibility of working together to transform your data into actionable insights—securely and ethically.
+"
+
+Html format version:"
+" <p>I hope this message finds you well.</p>
+
+    <p>
+        My name is <b>John</b>, and I am writing on behalf of
+        <b>SAAY DATALABS</b>, a South Africa–based data infrastructure, analytics,
+        and ethical AI company registered. We work with enterprises,
+        public institutions, and organizations that require secure, privacy-first
+        data solutions without compromising performance or compliance.
+    </p>
+
+    <p>
+        We are pleased to introduce a newly developed
+        <b>Secure Mass Email Outreach Solution</b>, designed specifically for
+        organizations seeking full data ownership, regulatory compliance,
+        and significant cost savings compared to traditional cloud-based
+        email marketing platforms.
+    </p>
+
+    <p>
+        Unlike conventional subscription services that store sensitive contact
+        data on third-party cloud infrastructure, our solution is deployed
+        directly on your own servers or private infrastructure. This ensures:
+    </p>
+
+    <ul>
+        <li>Complete data sovereignty and privacy</li>
+        <li>No reliance on third-party cloud providers</li>
+        <li>Full compliance with data protection and ethical standards</li>
+    </ul>
+
+    <p>
+        In addition to enhanced security, our clients typically achieve this
+        solution at a fraction of their current subscription costs, as it
+        eliminates recurring per-contact, per-send, or tier-based pricing
+        models. You maintain full control over your databases, campaigns,
+        and analytics—without vendor lock-in.
+    </p>
+
+    <p><b>Key capabilities include:</b></p>
+
+    <ul>
+        <li>Secure, on-premise bulk email campaign management</li>
+        <li>100% private and isolated databases</li>
+        <li>Ethical and compliant outreach workflows</li>
+        <li>Integration with existing data systems and analytics tools</li>
+    </ul>
+
+    <p>
+        This solution is ideal for organizations that manage sensitive datasets,
+        operate under strict regulatory requirements, or wish to reduce long-term
+        operational costs while maintaining enterprise-grade reliability.
+    </p>
+
+    <p>
+        We would welcome the opportunity to schedule a brief discussion or
+        demonstration to better understand your current setup and explore how
+        this solution could seamlessly replace or complement your existing platform.
+    </p>
+
+    <p>
+        Thank you for your time and consideration. We look forward to the
+        possibility of working together to transform your data into actionable
+        insights—securely and ethically.
+    </p>"
+
+"
